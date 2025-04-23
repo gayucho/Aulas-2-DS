@@ -23,3 +23,5 @@ while(quer_continuar):
 
 
 print("FIM")
+print(f"acertos:{acertos}")
+print(f"erros:{erros}")
